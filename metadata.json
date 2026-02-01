@@ -1,0 +1,7 @@
+{
+  "name": "Voice Of Kalki - Real-time News Hub",
+  "description": "A hyper-local and global news application providing the real-time pulse of information in English and Kannada, powered by Gemini and Google Search.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
